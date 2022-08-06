@@ -54,7 +54,11 @@ ul {
   background-color: lightgray;
   border-radius: 10px;
   display: flex;
+  flex-flow: column;
   box-shadow: 6px 5px 10px 0px grey;
+}
+.divInsert div {
+  display: flex;
 }
 
 button {
